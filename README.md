@@ -1,4 +1,15 @@
-# aluramidi-curso-arquivos-iniciais
+AluraMidi
+
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **AluraMidi**
+| :label: Tecnologias | JavaScript. HTML e CSS
+| :rocket: URL         | https://github.com/Pamella30/aluramidi-curso-arquivos-iniciais
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://raw.githubusercontent.com/Pamella30/aluramidi-curso-arquivos-iniciais/main/AluraMidi.png#vitrinedev)
+
 
 Instrumento musical de interface digital que ao clique de cada botao toca um som.
 Dentro desse curso foi trabalho funcoes, listas, interacao em listas, eventos e logicas.
