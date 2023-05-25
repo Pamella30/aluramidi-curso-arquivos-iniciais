@@ -1,6 +1,3 @@
-AluraMidi
-
-
 | :placard: Vitrine.Dev | |
 | -------------  | --- |
 | :sparkles: Nome        | **AluraMidi**
